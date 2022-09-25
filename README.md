@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=pink&height=300&section=header&text=JeonHyunin%20render&fontSize=90)
 
-![header](https://capsule-render.vercel.app/api?type=Slice&color=#3776AB/height=300&section=header&text=JeonHyunin%20render&fontSize=90)
+<hr style="border:1px color= silver;" width="90%">
 
 ## ☾⋆⁺₊⋆💙 Tech Stacks 💙 ⋆⁺₊ ⋆☾
 
